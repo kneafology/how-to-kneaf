@@ -16,9 +16,9 @@
   node path/to/kneaf.js
   ```
 
-  Contributors:
-  github:andiputraw -- Created kneaf.js
-
+  History:
+  2023-08-12. github:andiputraw : Created program
+  2023-08-12. github:andiputraw : Replaced "Contributor" with "History"
 */
 
 
